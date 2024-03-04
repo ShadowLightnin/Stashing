@@ -1,3 +1,6 @@
 Java
 HTML
 C++
+JavaScript
+HTML/CSS
+C#
