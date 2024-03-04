@@ -4,3 +4,6 @@ C++
 JavaScript
 HTML/CSS
 C#
+JavaScript
+HTML/CSS
+C#
