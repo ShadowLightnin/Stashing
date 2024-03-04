@@ -4,6 +4,9 @@ C++
 JavaScript
 HTML/CSS
 C#
+<<<<<<< Updated upstream
 JavaScript
 HTML/CSS
 C#
+=======
+>>>>>>> Stashed changes
