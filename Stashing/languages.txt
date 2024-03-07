@@ -2,4 +2,7 @@ My favorite language is plain JavaScript. JK
 I love all languages. No. My favorite language is C#.
 But, I want to learn GO.
 Hopefully Git and I can get along after this>
+ 
 You will get this. I promise.
+
+Git does not like me.
