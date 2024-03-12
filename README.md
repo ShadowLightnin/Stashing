@@ -9,14 +9,14 @@
 * etc
 
 **My Favorite languages**
-* #*My Favorites*
+* # *My Favorites*
 * Pyhton
 * HTML/CSS
 * JavaScript
 * Java
 * C#
 
-* ##*My Instuctors*
+* ## *My Instuctors*
 * __
 * __
 * __
