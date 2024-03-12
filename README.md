@@ -31,7 +31,7 @@
 * My GitHub: [Link Text](https://github.com/ShadowLightnin)
 * Instuctures: [Link Text](https://github.com/GeorgeRay)
 
-![Alt Text]([file:///D:/The%20SEVEN%20of%20NINE%20Website%202.0/img/Bludbruhs.webp](https://cdn.photographylife.com/wp-content/uploads/2014/09/Nikon-D750-Image-Samples-2.jpg)https://cdn.photographylife.com/wp-content/uploads/2014/09/Nikon-D750-Image-Samples-2.jpg)
+![Alt Text](https://cdn.photographylife.com/wp-content/uploads/2014/09/Nikon-D750-Image-Samples-2.jpg)
 
 
 ```python
